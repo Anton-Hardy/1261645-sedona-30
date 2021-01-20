@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anton Hardy](https://up.htmlacademy.ru/htmlcss/30/user/1261645).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Момотенко](https://htmlacademy.ru/profile/id1103389).
 
 ---
 
